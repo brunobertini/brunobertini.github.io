@@ -5,9 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-List of research topics
-======
-
 
 My research revolves around the study of out-of-equilibrium quantum matter. This quest also led me to consider aspects of many-body quantum chaos and quantum integrability.
   

@@ -5,8 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-My Group
-======
 
 * Postdocs 
   * Dr. Jonathon Riddell (since 2022)
