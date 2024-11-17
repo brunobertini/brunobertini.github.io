@@ -15,6 +15,8 @@ For most of its life many-body quantum mechanics has been concerned with the stu
 
 The main obstacle to tackle is the lack of general techniques to study many-body systems out of equilibrium. My strategy to forge them is to find minimal models where the whole many-body dynamics can be characterised exactly and use them to build a general understanding. 
 
+[Work in Progress]
+
 #My contributions followed two main strands. The first revolves around the study of (nearly) integrable many-body quantum systems, while the second is focussed on the dynamics of quantum chaotic ones. Integrable systems are a special class of interacting many-body quantum systems characterised by an extensive number of conservation laws that are able to constrain the scattering making it purely elastic and factorised. These conservation laws are “local” (i.e. have a local density) and result from a hidden algebraic structure (or symmetry) — based on the celebrated Yang-Bater equation — which enables exact calculations even in the presence of interactions. Chaotic systems on the other hand have no local conservation law. These systems are not generically solvable and my strategy has been is to find special examples characterised by new algebraic structures — alternative to Yang-Baxter — allowing for exact solutions.
 
 
