@@ -13,19 +13,19 @@ The full detailed CV is available [here](https://brunobertini.github.io/files/CV
 
 Employment History
 -----------------
-* Associate professor (since April 2024)  
+* Associate Professor (since April 2024)  
 School of Physics and Astronomy, University of Birmingham, UK 
 
-* Assistant professor (2021-2024)  
+* Assistant Professor (2021-2024)  
 School of Physics and Astronomy, University of Nottingham, UK
 
 * Royal Society University Research Fellow (2020-2021)  
 Rudolf Peierls Centre for Theoretical Physics, University of Oxford, UK
 
-* Postdoctoral research associate (2017-2020)  
+* Postdoctoral Research Associate (2017-2020)  
 Fakulteta za matematiko in fiziko, University of Ljubljana, Slovenia  
 
-* Postdoctoral research associate (2015-2017)  
+* Postdoctoral Research Associate (2015-2017)  
 Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy 
 
 
