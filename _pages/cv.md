@@ -47,13 +47,13 @@ Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy
 Grants and Awards
 -----------------
 
-*Leverhulme Trust Grant, [joint grant with J. P. Garrahan (Nottingham), A. 2024 Gammon-Smith (Nottingham), and I. Lesanovsky (Nottingham/Tübingen)]
+* Leverhulme Trust Grant, [joint grant with J. P. Garrahan (Nottingham), A. 2024 Gammon-Smith (Nottingham), and I. Lesanovsky (Nottingham/Tübingen)]
     * Project: RPG-2024-112
     * Funding Organization: [Leverhulme Trust](https://www.leverhulme.ac.uk/)
     * Duration: 48 months
     * Starting date: 01/03/2025
 
-*Royal Society Enhanced Research Expenses 2023 
+* Royal Society Enhanced Research Expenses 2023 
     * Project: RF\ERE\231128
     * Funding Organization: [Royal Society](https://royalsociety.org)
     * Duration: 24 months
