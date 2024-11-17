@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "My Group"
+    url: /group/
+
   - title: "Publications"
     url: /publications/
 
