@@ -75,7 +75,7 @@ https://doi.org/10.1103/PhysRevLett.130.260401) (2023), [arXiv:2212.06455](https
 
 * A. Bastianello, B. Bertini, B. Doyon, and R. Vasseur, *Introduction to the Special Issue on Emergent Hydrodynamics in Integrable Many-Body Systems*, [J. Stat. Mech. (2022) 014001](https://doi.org/10.1088/1742-5468/ac3e6a).
 
-*E. Granet, B. Bertini, and F.H.L. Essler, *Duality between Weak and Strong Interactions in Quantum Gases*, [Phys. Rev. Lett. **128**, 021604](https://doi.org/10.1103/PhysRevLett.128.021604) (2021), [arXiv:2109.08626](https://arxiv.org/abs/2109.08626).
+* E. Granet, B. Bertini, and F.H.L. Essler, *Duality between Weak and Strong Interactions in Quantum Gases*, [Phys. Rev. Lett. **128**, 021604](https://doi.org/10.1103/PhysRevLett.128.021604) (2021), [arXiv:2109.08626](https://arxiv.org/abs/2109.08626).
 
 * P. Kos, T. Prosen, and B. Bertini, *Thermalization dynamics and spectral statistics of extended systems with thermalizing boundaries*, [Phys. Rev. B **104**, 214303](https://doi.org/10.1103/PhysRevB.104.21430) (2021), [arXiv:2108.07742](https://arxiv.org/abs/2108.07742).
 
