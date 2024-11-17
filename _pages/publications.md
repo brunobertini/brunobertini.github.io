@@ -31,7 +31,7 @@ under random unitary dynamics*,
 
 Refereed journal papers
 -----------------------
-* J.Riddell, C. von Keyserlingk, T. Prosen, B. Bertini, Structural StabilityHypothesis of Dual Unitary Quantum Chaos, [Phys. Rev. Research **6**, 033226](https://doi.org/10.1103/PhysRevResearch.6.033226) (2024), [arXiv:2402.19096](https://arxiv.org/abs/2402.19096).
+* J. Riddell, C. von Keyserlingk, T. Prosen, B. Bertini, Structural StabilityHypothesis of Dual Unitary Quantum Chaos, [Phys. Rev. Research **6**, 033226](https://doi.org/10.1103/PhysRevResearch.6.033226) (2024), [arXiv:2402.19096](https://arxiv.org/abs/2402.19096).
 
 * A. Foligno, P. Kos, and B. Bertini, *Quantum information spreading in generalised dual-unitary circuits*, [Phys. Rev. Lett. **132**, 250402](https://doi.org/10.1103/PhysRevLett.132.250402) (2024), [arXiv:2312.02940](https://arxiv.org/abs/2312.02940). 
 
