@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This was last updated in November 2024. See the most up-to-date list on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bertini%2C+B) and on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+This was last updated in November 2024. See the most up-to-date list on the [arXiv](https://arxiv.org/a/bertini_b_1.html) and on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
 Preprints
 ---------
