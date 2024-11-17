@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This was last updated in September 2024. See the most up-to-date list on the [arXiv](https://arxiv.org/a/klobas_k_1.html) and on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+This was last updated in November 2024. See the most up-to-date list on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bertini%2C+B) and on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
 Preprints
 ---------
@@ -19,14 +19,14 @@ Preprints
 
 * B. Bertini, K. Klobas, P. Kos, D. Malz, *Quantum and classical
 dynamics with random permutation circuits*,
-[arXiv:2407.11960](https://arxiv.org/abs/2407.11960) (2024).
+[arXiv:2407.11960](https://arxiv.org/abs/2407.11960) (2024) [PRX in print].
 
 * K. Klobas, C. Rylands, B. Bertini, *Translation symmetry restoration
 under random unitary dynamics*,
 [arXiv:2406.04296](https://arxiv.org/abs/2406.04296) (2024).
 
 * J. Riddell and B. Bertini, *Rationally independent free fermions with local hopping*,
-[arXiv:2404.12100](https://arxiv.org/abs/2404.12100) (2024).
+[arXiv:2404.12100](https://arxiv.org/abs/2404.12100) (2024) [PRE in print].
 
 
 Refereed journal papers
