@@ -13,7 +13,7 @@ author_profile: true
   * Molly Gibbins (since 2022, with Adam Gammon-Smith)
   * Sam Pickering (since 2024)
 
-* Alumni
+* PhD Alumni
   * Dr. Alessandro Foligno (2021 - 2024) 
 
 
