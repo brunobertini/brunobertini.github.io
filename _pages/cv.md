@@ -11,22 +11,6 @@ redirect_from:
 
 The full detailed CV is available [here](https://brunobertini.github.io/files/CV.pdf)
 
-Education
----------
-* D. Phil Student (2012-2015)  
-Rudolf Peierls Centre for Theoretical Physics, University of Oxford, UK
-
-* Allievo (2010-2012)
-Classe di Scienze, Scuola Normale Superiore di Pisa, Italy
-
-
-* Master Student (2010-2012)  
-Corso di Laurea Magistrale in Fisica Teorica, University of Pisa, Italy
-
-
-* Bachelor Student (2010-2013)  
-Corso di Laurea Triennale in Fisica, University of Pisa, Italy
-
 Employment History
 -----------------
 * Associate professor (since April 2024)  
@@ -43,6 +27,30 @@ Fakulteta za matematiko in fiziko, University of Ljubljana, Slovenia
 
 * Postdoctoral research associate (2015-2017)  
 Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy 
+
+
+
+Education
+---------
+* D. Phil Student (2012-2015) 
+ 
+Rudolf Peierls Centre for Theoretical Physics, University of Oxford, UK
+
+* Allievo (2010-2012)
+
+Classe di Scienze, Scuola Normale Superiore di Pisa, Italy
+
+
+* Master Student (2010-2012) 
+ 
+Corso di Laurea Magistrale in Fisica Teorica, University of Pisa, Italy
+
+
+* Bachelor Student (2010-2013) 
+ 
+Corso di Laurea Triennale in Fisica, University of Pisa, Italy
+
+
   
 Grants and Awards
 -----------------
