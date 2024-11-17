@@ -10,7 +10,7 @@ author_profile: true
   * Dr. Jonathon Riddell (since 2022)
 
 * PhD Students
-  * Molly Gibbins (since 2022, with Adam Gammon-Smith)
+  * Molly Gibbins (since 2022, co-supervised with Adam Gammon-Smith)
   * Sam Pickering (since 2024)
 
 * PhD Alumni
