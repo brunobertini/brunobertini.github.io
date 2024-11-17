@@ -9,7 +9,7 @@ List of research topics
 ======
 
 
-* The main theme of my research revolves around the study of out-of-equilibrium quantum matter. This quest also led me to consider aspects of many-body quantum chaos and quantum integrability.
+My research revolves around the study of out-of-equilibrium quantum matter. This quest also led me to consider aspects of many-body quantum chaos and quantum integrability.
   
 For most of its life many-body quantum mechanics has been concerned with the study of equilibrium phenomena because of experimental restrictions. With the turn of the millennium the situation has begun to change: non-equilibrium quantum matter is now routinely accessible in experiments and understanding it represents one of the frontiers of theoretical physics.   
 
