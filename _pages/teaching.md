@@ -9,7 +9,7 @@ Undergraduate courses
 ---------
 * Phase Transitions (4th year)
 
-*Selected topics in Quantum Information (part of Current Topics in Theoretical Physics)
+* Selected topics in Quantum Information (part of Current Topics in Theoretical Physics)
 
 
 4th year projects

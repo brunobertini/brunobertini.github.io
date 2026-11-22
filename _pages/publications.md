@@ -10,22 +10,22 @@ This was last updated in November 2026. See the most up-to-date list on the [arX
 Preprints
 ---------
 
-*A. Russotto, K. Klobas, P. Calabrese, and B. Bertini, *Gaussian Scrooge Ensemble from Deep Thermalization in Free-Fermions*,
+* A. Russotto, K. Klobas, P. Calabrese, and B. Bertini, *Gaussian Scrooge Ensemble from Deep Thermalization in Free-Fermions*,
 [arXiv:2610.10279](https://arxiv.org/abs/2610.10279) (2026).
 
 * D. X. Horvath, B. Bertini, *Large-scale dynamics of integrable quenches*, 
 [arXiv:2609.09139](https://arxiv.org/abs/2609.09139) (2026).
 
-*S. H. Pickering, M. McGinley, B. Kumar, B. Bertini, *Solvable Quantum Circuits with non-Markovian Influence Matrices*, 
+* S. H. Pickering, M. McGinley, B. Kumar, B. Bertini, *Solvable Quantum Circuits with non-Markovian Influence Matrices*, 
 [arXiv:2607.25969](https://arxiv.org/abs/2607.25969) (2026).
 
-*R. Travaglino, K. Klobas, B. Bertini, P. Calabrese, *Dynamical correlation functions of extensive charges after global quantum quenches*, 
+* R. Travaglino, K. Klobas, B. Bertini, P. Calabrese, *Dynamical correlation functions of extensive charges after global quantum quenches*, 
 [arXiv:2607.19208](https://arxiv.org/abs/2607.19208) (2026).
 
-*R. Travaglino, P. Calabrese, K. Klobas, B. Bertini, *Space-time duality approach to (inhomogeneous) integrable quenches*, 
+* R. Travaglino, P. Calabrese, K. Klobas, B. Bertini, *Space-time duality approach to (inhomogeneous) integrable quenches*, 
 [arXiv:2606.20445](https://arxiv.org/abs/2606.20445) (2026).
 
-*C. Li, B. Bertini, K. Klobas, and T. Zhou, *Low Rank Structure of the Reduced Transition Matrix*, 
+* C. Li, B. Bertini, K. Klobas, and T. Zhou, *Low Rank Structure of the Reduced Transition Matrix*, 
 [arXiv:2605.12665](https://arxiv.org/abs/2605.12665) (2026).
 
 
@@ -33,81 +33,81 @@ Preprints
 Refereed journal papers
 -----------------------
 
-*J. Bannister, K. Klobas, C. Rylands, B. Bertini, *Initial State Memory in Finite Random Brickwork Circuits*, 
+* J. Bannister, K. Klobas, C. Rylands, B. Bertini, *Initial State Memory in Finite Random Brickwork Circuits*, 
 [arXiv:2603.23469](https://arxiv.org/abs/2603.23469) (2026) [PRB in print] .
 
-*R. Senese, B. Bertini, K. Klobas, and P. Calabrese, *Athermality of generalized Gibbs
+* R. Senese, B. Bertini, K. Klobas, and P. Calabrese, *Athermality of generalized Gibbs
 ensembles*, 
 [arXiv:2606.30762](https://arxiv.org/abs/2606.30762) (2026) [J Quant in print].
 
-*S. H. Pickering and B. Bertini, *Asymptotically Solvable Quantum Circuits*, 
+* S. H. Pickering and B. Bertini, *Asymptotically Solvable Quantum Circuits*, 
 [PRX Quantum **7**, 043001](https://arxiv.org/abs/2601.22375) (2026),
 [arXiv:2602.24276](https://arxiv.org/abs/2602.24276).
 
-*B. Bertini, *Non-Equilibrium Quantum Many-Body Physics with QuantumCircuits*,
+* B. Bertini, *Non-Equilibrium Quantum Many-Body Physics with QuantumCircuits*,
 [SciPost Phys. Lect. Notes **124**](https://doi.org/10.21468/SciPostPhysLectNotes.124) (2026),
 [arXiv:2601.22375](https://arxiv.org/abs/2601.22375). 
 
-*P. Kos, B. Bertini, and T. Prosen, *Vanishing correlations in stochastic and bistochastic controlled circuits*, 
+* P. Kos, B. Bertini, and T. Prosen, *Vanishing correlations in stochastic and bistochastic controlled circuits*, 
 [Phys. Rev. E **113**, 064139](https://doi.org/10.1103/4rn3-bn7k) (2026),
 [arXiv:2601.14379](https://arxiv.org/abs/2601.14379).
 
-*J. Li, B. Bertini, J. P. Garrahan, and R. L. Jack, *Exact large deviations and emergent
+* J. Li, B. Bertini, J. P. Garrahan, and R. L. Jack, *Exact large deviations and emergent
 long-range correlations in sequential quantum East circuits*, 
 [Phys. Rev. B **113**, L100305](https://doi.org/10.1103/72kx-56lt) (2026),
 [arXiv:2509.07182](https://arxiv.org/abs/2509.07182).
 
 
-*B. Bertini, K. Klobas, P. Kos, and D. Malz, *Random Permutation Circuits are
+* B. Bertini, K. Klobas, P. Kos, and D. Malz, *Random Permutation Circuits are
 Quantum Chaotic*, 
 [Phys. Rev. B **113**, L100302](https://doi.org/10.1103/ql9x-6kzj) (2026),
 [arXiv:2508.10890](https://arxiv.org/abs/2508.10890).
 
-*B. Bertini, P. W. Claeys, and T. Prosen, *Exactly solvable many-body dynamics
+* B. Bertini, P. W. Claeys, and T. Prosen, *Exactly solvable many-body dynamics
 from space-time duality*, 
 [Rev. Mod. Phys. **98**, 025001](https://doi.org/10.1103/yx73-dk86) (2026),
 [arXiv:2505.11489](https://arxiv.org/abs/2505.11489).
 
-*D. Szasz-Schagrin, M. Mazzoni, B. Bertini, K. Klobas, and L. Piroli, *Entanglement dynamics and Page curves in random permutation circuits*, 
+* D. Szasz-Schagrin, M. Mazzoni, B. Bertini, K. Klobas, and L. Piroli, *Entanglement dynamics and Page curves in random permutation circuits*, 
 [Phys. Rev. Res. **8**, L012061](https://doi.org/10.1103/d8tm-1586) (2026),
 [arXiv:2505.06158](https://arxiv.org/abs/2505.06158).
 
-*J. Riddell, K. Klobas, and B. Bertini, *Quantum State Designs from Minimally Ran-
+* J. Riddell, K. Klobas, and B. Bertini, *Quantum State Designs from Minimally Ran-
 dom Quantum Circuits*, 
 [PRX Quantum **7**, 033047](https://doi.org/10.1103/kfzr-2k5r) (2026),
 [arXiv:2503.05698](https://arxiv.org/abs/2503.05698).
 
 
-*M. Gibbins, A. Smith, and B. Bertini, *Translation symmetry restoration in inte-
+* M. Gibbins, A. Smith, and B. Bertini, *Translation symmetry restoration in inte-
 grable systems: the noninteracting case*, 
 [Phys. Rev. B **112**, L180307](https://doi.org/10.1103/mxhd-fswm) (2025),
 [arXiv:2506.14555](https://arxiv.org/abs/2506.14555).
 
 
-*Z. Krajnik, K. Klobas, B. Bertini, and T. Prosen, *Fluctuations of stochastic charged
+* Z. Krajnik, K. Klobas, B. Bertini, and T. Prosen, *Fluctuations of stochastic charged
 cellular automata*, 
 [J. Stat. Mech. 053209](https://doi.org/10.1088/1742-5468/add513) (2025),
 [arXiv:2502.02509](https://arxiv.org/abs/2502.02509).
 
 
-*A. Foligno, B. Bertini, *Entanglement of Disjoint Intervals in Dual-Unitary Circuits:
+* A. Foligno, B. Bertini, *Entanglement of Disjoint Intervals in Dual-Unitary Circuits:
 Exact Results*,
 [Quantum **9**, 1678](https://doi.org/10.22331/q-2025-03-26-1678) (2025), 
 [arXiv:2408.16750](https://arxiv.org/abs/2408.16750).
 
 
-*J. Li, R. L. Jack, B. Bertini, J. P. Garrahan, *Efficient post-selection in light-cone
+* J. Li, R. L. Jack, B. Bertini, J. P. Garrahan, *Efficient post-selection in light-cone
 correlations of monitored quantum circuits*, 
 [Phys. Rev. B **111**, 024309](https://doi.org/10.1103/PhysRevB.111.024309) (2025),
 [arXiv:2408.13096](https://arxiv.org/abs/2408.13096).
 
-*A. Foligno, P. Calabrese, and B. Bertini, *Non-equilibrium dynamics of charged
+* A. Foligno, P. Calabrese, and B. Bertini, *Non-equilibrium dynamics of charged
 dual-unitary circuits*, 
 [PRX Quantum **6**, 010324](https://doi.org/10.1103/PRXQuantum.6.010324) (2025),
 [arXiv:2407.21786](https://arxiv.org/abs/2407.21786).
 
 
-*B. Bertini, K. Klobas, P. Kos, and D. Malz, *Quantum and Classical Dynamics with
+* B. Bertini, K. Klobas, P. Kos, and D. Malz, *Quantum and Classical Dynamics with
 Random Permutation Circuits*, 
 [Phys. Rev. X **15**, 011015](https://doi.org/10.1103/PhysRevB.111.L140304) (2025), [arXiv:2407.11960](https://arxiv.org/abs/2407.11960).
 
