@@ -7,8 +7,9 @@ author_profile: true
 
 
 * Postdocs 
-  * Dr. Alan Sherry (since 2025)
-  * Tobias Swann (since 2025)
+  * Dr. Dávid Horváth (since 2025)
+  * Dr. Alan Sherry (since 2026)
+  * Tobias Swann (since 2026)
 
 * PhD Students
   * Sam Pickering (since 2024)
