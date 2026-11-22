@@ -22,7 +22,6 @@ Preprints
 *R. Travaglino, K. Klobas, B. Bertini, P. Calabrese, *Dynamical correlation functions of extensive charges after global quantum quenches*, 
 [arXiv:2607.19208](https://arxiv.org/abs/2607.19208) (2026).
 
-
 *R. Travaglino, P. Calabrese, K. Klobas, B. Bertini, *Space-time duality approach to (inhomogeneous) integrable quenches*, 
 [arXiv:2606.20445](https://arxiv.org/abs/2606.20445) (2026).
 
@@ -115,7 +114,7 @@ Random Permutation Circuits*,
 * K. Klobas, C.Rylands, and B.Bertini, *Translation symmetry restoration under random unitary dynamics*,
 [Phys. Rev. B **111**, L140304](https://doi.org/10.1103/PhysRevB.111.L140304) (2025), [arXiv:2406.04296](https://arxiv.org/abs/2406.04296).
 
-* J. Riddell and B.�Bertini, *Rationally independent free fermions with local hopping*,
+* J. Riddell and B. Bertini, *Rationally independent free fermions with local hopping*,
  [Phys. Rev. E **110**, 064101] (https://doi.org/10.1103/PhysRevE.110.064101) (2024), [arXiv:2404.12100](https://arxiv.org/abs/2404.12100).
 
 * J. Riddell, C. von Keyserlingk, T. Prosen, B. Bertini, Structural StabilityHypothesis of Dual Unitary Quantum Chaos, [Phys. Rev. Research **6**, 033226](https://doi.org/10.1103/PhysRevResearch.6.033226) (2024), [arXiv:2402.19096](https://arxiv.org/abs/2402.19096).
@@ -154,7 +153,7 @@ https://doi.org/10.1103/PhysRevLett.130.260401) (2023), [arXiv:2212.06455](https
 * B. Bertini, K. Klobas, and T.-C. Lu, *Entanglement Negativity and Mutual Information after a Quantum Quench: Exact Link from Space-Time Duality*, [Phys. Rev. Lett. **129**, 140503](https://doi.org/10.1103/PhysRevLett.129.140503) (2022), [arXiv:2203.17254](https://arxiv.org/abs/2203.17254).
 
 
-* B. Bertini, K. Klobas, V. Alba, G. Lagnese, and P. Calabrese, *Growth of Rényi Entropies in Interacting Integrable Models and the Breakdown of the Quasiparticle Picture*, [Phys. Rev. X **12**, 031016](https://doi.org/10.1103/PhysRevX.12.031016) (2022), [arXiv:2203.17264](https://arxiv.org/abs/2203.17264).
+* B. Bertini, K. Klobas, V. Alba, G. Lagnese, and P. Calabrese, *Growth of RÃ©nyi Entropies in Interacting Integrable Models and the Breakdown of the Quasiparticle Picture*, [Phys. Rev. X **12**, 031016](https://doi.org/10.1103/PhysRevX.12.031016) (2022), [arXiv:2203.17264](https://arxiv.org/abs/2203.17264).
 
 * B. Bertini, P. Kos, and T. Prosen, *Exact Spectral Statistics in Strongly Localised Circuits*, [Phys. Rev. B **105**, 165142](https://doi.org/10.1103/PhysRevB.105.165142) (2022), [arXiv:2110.15938](https://arxiv.org/abs/2110.15938).
 
@@ -177,10 +176,10 @@ https://doi.org/10.1103/PhysRevLett.130.260401) (2023), [arXiv:2212.06455](https
 * K. Klobas and B. Bertini, *Exact relaxation to Gibbs and non-equilibrium steady states in the quantum cellular automaton Rule 54*, [SciPost Phys. **11**, 106](https://doi.org/10.21468/SciPostPhys.11.6.106) (2021), [arXiv:2104.04511](https://arxiv.org/abs/2104.04511).
 
 
-* K. Klobas, B. Bertini, and L. Piroli, *Exact Thermalization Dynamics in the “Rule 54” Quantum Cellular Automaton*, [Phys. Rev. Lett. **126**, 160602](https://doi.org/10.1103/PhysRevLett.126.160602) (2021), [arXiv:2012.12256](https://arxiv.org/abs/2012.12256).
+* K. Klobas, B. Bertini, and L. Piroli, *Exact Thermalization Dynamics in the "Rule 54" Quantum Cellular Automaton*, [Phys. Rev. Lett. **126**, 160602](https://doi.org/10.1103/PhysRevLett.126.160602) (2021), [arXiv:2012.12256](https://arxiv.org/abs/2012.12256).
 
 
-* B. Bertini, F. Heidrich-Meisner, C. Karrasch, T. Prosen, R. Steinigeweg, and M. Žnidarič, *Finite-temperature transport in one-dimensional quantum lattice models*, [Rev. Mod. Phys. **93**, 025003](https://doi.org/10.1103/RevModPhys.93.025003) (2021), [arXiv:2003.03334](https://arxiv.org/abs/2003.03334).
+* B. Bertini, F. Heidrich-Meisner, C. Karrasch, T. Prosen, R. Steinigeweg, and M. Znidaric, *Finite-temperature transport in one-dimensional quantum lattice models*, [Rev. Mod. Phys. **93**, 025003](https://doi.org/10.1103/RevModPhys.93.025003) (2021), [arXiv:2003.03334](https://arxiv.org/abs/2003.03334).
 
 * P. Kos, B. Bertini, and T. Prosen, *Chaos and Ergodicity in Extended Quantum Systems with Noisy Driving*, [Phys. Rev. Lett. **126**, 190601](https://doi.org/10.1103/PhysRevLett.126.190601) (2021), [arXiv:2010.12494](https://arxiv.org/abs/2010.12494).
 
@@ -190,64 +189,45 @@ https://doi.org/10.1103/PhysRevLett.130.260401) (2023), [arXiv:2212.06455](https
 * P. Kos, B. Bertini, and T. Prosen, *Correlations in Perturbed Dual-Unitary Circuits: Efficient Path-Integral Formula*, [Phys. Rev. X **11**, 011022](https://doi.org/10.1103/PhysRevX.11.011022) (2021), [arXiv:2006.07304](https://arxiv.org/abs/2006.07304).
 
 
-* A. Flack, B. Bertini, and T. Prosen, *Statistics of the spectral form factor in the self- dual kicked Ising model*, [Phys. Rev. Research **2**, 043403](https://doi.org/10.1103/PhysRevResearch.2.043403) (2020), [arXiv:2009.03199](https://arxiv.org/abs/2009.03199).
-
-
+* A. Flack, B. Bertini, and T. Prosen, *Statistics of the spectral form factor in the self-dual kicked Ising model*, [Phys. Rev. Research **2**, 043403](https://doi.org/10.1103/PhysRevResearch.2.043403) (2020), [arXiv:2009.03199](https://arxiv.org/abs/2009.03199).
 
 * B. Bertini and P. Calabrese, *Prethermalization and thermalization in entanglement dynamics*, [Phys. Rev. B **102**, 094303](https://doi.org/10.1103/PhysRevB.102.094303) (2020), [arXiv:2007.01286](https://arxiv.org/abs/2007.01286). 
 
-
 * B. Bertini and L. Piroli, *Scrambling in random unitary circuits: Exact results*, [Phys. Rev. B **102**, 064305](https://doi.org/10.1103/PhysRevB.102.064305) (2020), [arXiv:2004.13697](https://arxiv.org/abs/2004.13697). 
 
-
 * L. Piroli, B. Bertini, J. I. Cirac, and T. Prosen, *Exact dynamics in dual-unitary quantum circuits*, [Phys. Rev. B **101**, 094304](https://doi.org/10.1103/PhysRevB.101.094304) (2020), , [arXiv:1911.11175](https://arxiv.org/abs/1911.11175).
-
 
 * B. Bertini, P. Kos, and T. Prosen, *Operator Entanglement in Local Quantum Circuits II: Solitons in Chains of Qubits*, [SciPost Phys. **8**, 068](https://doi.org/10.21468/SciPostPhys.8.4.068) (2020), [arXiv:1909.07410](https://arxiv.org/abs/1909.07410).
 
 * B. Bertini, P. Kos, and T. Prosen, *Operator Entanglement in Local Quantum Circuits I: Maximally Chaotic Dual-Unitary Circuits*, [SciPost Phys. **8**, 067](https://doi.org/10.21468/SciPostPhys.8.4.068) (2020), [arXiv:1909.07407](https://arxiv.org/abs/1909.07407).
 
-
 * B. Bertini, P. Kos, and T. Prosen, *Exact Correlation Functions for Dual-Unitary Lattice Models in 1+1 Dimensions*, [Phys. Rev. Lett. **123**, 210601](https://doi.org/10.21468/SciPostPhys.8.4.067) (2019). [arXiv:1909.07407](https://arxiv.org/abs/1909.07407).
-
 
 * B. Bertini, L. Piroli, and M. Kormos, *Transport in the sine-Gordon field theory: from generalized hydrodynamics to semiclassics*, [Phys. Rev. B **100**, 035108](
 https://doi.org/10.1103/PhysRevB.100.035108) (2019), [arXiv:1904.02696](https://arxiv.org/abs/1904.02696). 
-
 
 * V. Alba, B. Bertini, and M. Fagotti, *Entanglement evolution and generalised hydrodynamics: interacting integrable systems*, [SciPost Phys. **7**, 005](https://doi.org/10.21468/SciPostPhys.7.1.005) (2019), [arXiv:1903.00467](https://arxiv.org/abs/1903.00467).  
 
 * B. Bertini, P. Kos, and T. Prosen, *Entanglement spreading in a minimal model of maximal many-body quantum chaos*, [Phys. Rev. X **9**, 021033](https://doi.org/10.1103/PhysRevX.9.021033) (2019), [arXiv:1812.05090](https://arxiv.org/abs/1812.05090).
 
-
-* M. Mestyán, B. Bertini, L. Piroli, and P. Calabrese, *Spin-charge separation effects in the low-temperature transport of 1D Fermi gases*, [Phys. Rev. B **99**, 014305](https://doi.org/10.1103/PhysRevB.99.014305) (2019), [arXiv:1810.01089](https://arxiv.org/abs/1810.01089). 
-
+* M. Mestyan, B. Bertini, L. Piroli, and P. Calabrese, *Spin-charge separation effects in the low-temperature transport of 1D Fermi gases*, [Phys. Rev. B **99**, 014305](https://doi.org/10.1103/PhysRevB.99.014305) (2019), [arXiv:1810.01089](https://arxiv.org/abs/1810.01089). 
 
 * B. Bertini, M. Fagotti, L. Piroli, and P. Calabrese, *Entanglement evolution and generalised hydrodynamics: noninteracting systems*, [J. Phys. A: Math. Theor. **51**, 39LT01](https://doi.org/10.1088/1751-8121/aad82e) (2018), [arXiv:1805.01884](https://arxiv.org/abs/1805.01884).
 
-
 * B. Bertini, P. Kos, T. Prosen, *Exact Spectral Form Factor in a Minimal Model of Many-Body Quantum Chaos*, [Phys. Rev. Lett. **121**, 264101](https://doi.org/10.1103/PhysRevLett.121.264101) (2018), [arXiv:1805.00931](https://arxiv.org/abs/1805.00931).
-
 
 * B. Bertini, E. Tartaglia, and P. Calabrese, *Entanglement and diagonal entropies after a quench with no pair structure*, [J. Stat. Mech. (2018) 063104](https://doi.org/10.1088/1742-5468/aac73f), [arXiv:1802.10589]  (https://arxiv.org/abs/1802.10589). 
 
-
 * B. Bertini and L. Piroli, *Low-Temperature Transport in Out-of-Equilibrium XXZ
 Chains*, [J. Stat. Mech. (2018) 033104](https://doi.org/10.1088/1742-5468/aab04b), [arXiv:1711.00519](https://arxiv.org/abs/1711.00519).
-
 
 * B. Bertini, L. Piroli, and P. Calabrese, *Universal broadening of the light cone in low-temperature transport*, [Phys. Rev. Lett. **120**, 176801](https://doi.org/10.1103/PhysRevLett.120.176801) (2018), [arXiv:1709.10096](https://arxiv.org/abs/1709.10096).
 
 * B. Bertini, E. Tartaglia, and P. Calabrese, *Quantum Quench in the Infinitely Repulsive Hubbard Model: The Stationary State*, [J. Stat. Mech. (2017) 103107](https://doi.org/10.1088/1742-5468/aa8c2c), [arXiv:1707.01073](https://arxiv.org/abs/1707.01073).
 
+* L. Piroli, J. De Nardis, M. Collura, B. Bertini, and M. Fagotti, *Transport in out-of-equilibrium XXZ chains: non-ballistic behavior and correlation functions*, [Phys. Rev.  B **96**, 115124](https://doi.org/10.1103/PhysRevB.96.115124) (2017), [arXiv:1706.00413](https://arxiv.org/abs/1706.00413).
 
-* L. Piroli, J. De Nardis, M. Collura, B. Bertini, and M. Fagotti, *Transport in out-of-
-equilibrium XXZ chains: non-ballistic behavior and correlation functions*, [Phys. Rev.
-B **96**, 115124](https://doi.org/10.1103/PhysRevB.96.115124) (2017), [arXiv:1706.00413](https://arxiv.org/abs/1706.00413).
-
-
-* M. Mestyán, B. Bertini, L. Piroli, and P. Calabrese, *Exact solution for the quench dynamics of a nested integrable system*, [J. Stat. Mech. (2017) 083103](https://doi.org/10.1088/1742-5468/aa7df0), [arXiv:1705.00851](https://arxiv.org/abs/1705.00851).
-
+* M. Mestyan, B. Bertini, L. Piroli, and P. Calabrese, *Exact solution for the quench dynamics of a nested integrable system*, [J. Stat. Mech. (2017) 083103](https://doi.org/10.1088/1742-5468/aa7df0), [arXiv:1705.00851](https://arxiv.org/abs/1705.00851).
 
 * B. Bertini, *Approximate light cone effects in a non-relativistic quantum field theory after a local quench*, [Phys. Rev. B **95**, 075153](https://doi.org/10.1103/PhysRevB.95.075153) (2017), [arXiv:1611.05030](https://arxiv.org/abs/1611.05030).
 
@@ -265,7 +245,4 @@ B **96**, 115124](https://doi.org/10.1103/PhysRevB.96.115124) (2017), [arXiv:170
 
 * B. Bertini, D. Schuricht, F.H. L. Essler, *Quantum Quench in the Sine-Gordon Model*, [J. Stat. Mech. (2014) P10035](http://dx.doi.org/10.1088/1742-5468/2014/10/P10035), [arXiv:1405.4813](https://arxiv.org/abs/1405.4813). 
 
-
-
 {% include base_path %}
-
