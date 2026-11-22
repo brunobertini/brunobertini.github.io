@@ -64,12 +64,12 @@ Quantum Chaotic*,
 [Phys. Rev. B **113**, L100302](https://doi.org/10.1103/ql9x-6kzj) (2026),
 [arXiv:2508.10890](https://arxiv.org/abs/2508.10890).
 
-?B. Bertini, P. W. Claeys, and T. Prosen, *Exactly solvable many-body dynamics
+*B. Bertini, P. W. Claeys, and T. Prosen, *Exactly solvable many-body dynamics
 from space-time duality*, 
 [Rev. Mod. Phys. **98**, 025001](https://doi.org/10.1103/yx73-dk86) (2026),
 [arXiv:2505.11489](https://arxiv.org/abs/2505.11489).
 
-*D. Szász-Schagrin, M. Mazzoni, B. Bertini, K. Klobas, and L. Piroli, *Entanglement dynamics and Page curves in random permutation circuits*, 
+*D. Szasz-Schagrin, M. Mazzoni, B. Bertini, K. Klobas, and L. Piroli, *Entanglement dynamics and Page curves in random permutation circuits*, 
 [Phys. Rev. Res. **8**, L012061](https://doi.org/10.1103/d8tm-1586) (2026),
 [arXiv:2505.06158](https://arxiv.org/abs/2505.06158).
 
@@ -85,7 +85,7 @@ grable systems: the noninteracting case*,
 [arXiv:2506.14555](https://arxiv.org/abs/2506.14555).
 
 
-*´. Krajnik, K. Klobas, B. Bertini, and T. Prosen, *Fluctuations of stochastic charged
+*Z. Krajnik, K. Klobas, B. Bertini, and T. Prosen, *Fluctuations of stochastic charged
 cellular automata*, 
 [J. Stat. Mech. 053209](https://doi.org/10.1088/1742-5468/add513) (2025),
 [arXiv:2502.02509](https://arxiv.org/abs/2502.02509).
@@ -117,7 +117,6 @@ Random Permutation Circuits*,
 
 * J. Riddell and B. Bertini, *Rationally independent free fermions with local hopping*,
  [Phys. Rev. E **110**, 064101] (https://doi.org/10.1103/PhysRevE.110.064101) (2024), [arXiv:2404.12100](https://arxiv.org/abs/2404.12100).
-
 
 * J. Riddell, C. von Keyserlingk, T. Prosen, B. Bertini, Structural StabilityHypothesis of Dual Unitary Quantum Chaos, [Phys. Rev. Research **6**, 033226](https://doi.org/10.1103/PhysRevResearch.6.033226) (2024), [arXiv:2402.19096](https://arxiv.org/abs/2402.19096).
 
