@@ -7,7 +7,6 @@ author_profile: true
 
 
 * Postdocs 
-  * Dr. Dávid Horváth (since 2025)
   * Dr. Alan Sherry (since 2025)
   * Tobias Swann (since 2025)
 
