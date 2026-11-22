@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Bruno's Page"
+title                    : "Bruno Bertini"
 title_separator          : "-"
 name                     : &name "Bruno Bertini"
 description              : &description "personal webpage"

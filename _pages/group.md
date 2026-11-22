@@ -7,14 +7,21 @@ author_profile: true
 
 
 * Postdocs 
-  * Dr. Jonathon Riddell (since 2022)
+  * Dr. Dávid Horváth (since 2025)
+  * Dr. Alan Sherry (since 2025)
+  * Tobias Swann (since 2025)
 
 * PhD Students
-  * Molly Gibbins (since 2022, co-supervised with Adam Gammon-Smith)
   * Sam Pickering (since 2024)
+  * Jakob Bannister (since 2025)
+  *Gabriel Almeida (since 2026)
 
 * PhD Alumni
+  * Dr. Molly Gibbins (2022-2026)
   * Dr. Alessandro Foligno (2021 - 2024) 
+
+* Previous Members
+  * Dr. Jonathon Riddell (now CEO at Kothar Computing)
 
 
 {% include base_path %}
