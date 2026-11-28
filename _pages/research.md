@@ -21,6 +21,4 @@ Here is a brief list of my main research directions
 
 
 
-
-
 {% include base_path %}

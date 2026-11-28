@@ -51,6 +51,20 @@ Corso di Laurea Triennale in Fisica, University of Pisa, Italy
 Grants and Awards
 -----------------
 
+* ERC Consolidator Grant 2025
+    * Project: DREAM
+    * Funding Organization: [European Research Council](https://erc.europa.eu/homepage)
+    * Duration: 62 months
+    * Starting date: 01/10/2026
+
+
+* Royal Society University Research Fellowship Renewal 2025 
+    * Project: URF\R1\201102
+    * Funding Organization: [Royal Society](https://royalsociety.org)
+    * Duration: 36 months
+    * Starting date: 01/10/2025
+
+
 * Leverhulme Trust Grant, [joint grant with J. P. Garrahan (Nottingham), A. 2024 Gammon-Smith (Nottingham), and I. Lesanovsky (Nottingham/Tübingen)]
     * Project: RPG-2024-112
     * Funding Organization: [Leverhulme Trust](https://www.leverhulme.ac.uk/)
